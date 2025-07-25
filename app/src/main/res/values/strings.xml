@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoctorApp</string>
+    <string name="schedule_appointment_n_with_easy">Schedule Appointment\n with Easy</string>
+    <string name="how_are_you_today">How Are You Today?</string>
+    <string name="hi_elsa">Hi, Elsa</string>
+</resources>
