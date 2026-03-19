@@ -20,7 +20,7 @@ DoctorApp User is a mobile application that allows patients to search for doctor
 ## 🛠 Tech Stack
 
 * **Language:** Java
-* **UI:** XML, ConstraintLayout, Material Design 3
+* **UI:** XML, ConstraintLayout
 * **Architecture:** MVVM
 * **Networking:** Retrofit (RESTful API)
 * **Components:** RecyclerView, Navigation Component
